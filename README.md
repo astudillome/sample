@@ -1,1 +1,1 @@
-# create file for my project
+# Sample project
